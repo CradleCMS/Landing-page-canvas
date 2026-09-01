@@ -1,6 +1,8 @@
 # Landing page template
 
-Designed to be used when created a landing page with AI or elswhere.
+Designed to be used when prompting landing pages with AI or using premade landing pages.
+
+> [Guide on how to work with the theme in Cradle CMS](https://cradlecms.com/blog/guides/article/redesign-a-site-with-ai)
 
 ## Templates
 
