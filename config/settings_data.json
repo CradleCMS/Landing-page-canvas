@@ -1,0 +1,13 @@
+{
+  "current": "Default",
+  "presets": {
+    "Default": {
+      "closed_fgimage_size": "150",
+      "closed_text": "We are closed for the moment, check in later!",
+      "closed_title": "We are closed",
+      "footerLogoImage": true,
+      "footerQuickLinksEnable": false,
+      "ok-br": "0.25rem"
+    }
+  }
+}
