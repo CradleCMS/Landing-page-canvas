@@ -2,7 +2,7 @@
 
 Designed to be used when prompting landing pages with AI or using premade landing pages.
 
-> [Guide on how to work with the theme in Cradle CMS](https://cradlecms.com/blog/guides/article/redesign-a-site-with-ai)
+> [Guide on how to work with the theme in Cradle CMS](https://cradlecms.com/docs/guides/redesign-a-frontpage-with-ai)
 
 <img width="2887" height="2160" alt="ai-frontpage-insertion" src="https://github.com/user-attachments/assets/bd75d393-b765-497b-90c3-73faf1d8a0f3" />
 
