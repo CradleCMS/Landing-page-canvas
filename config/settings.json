@@ -34,11 +34,6 @@
             }
           ],
           "type": "select"
-        },
-        {
-          "caption": "Extra code for the head",
-          "key": "head_extra_code",
-          "type": "textarea"
         }
       ],
       "default": null

@@ -18,8 +18,7 @@
         <link rel="icon" href="/favicon.ico">
         <link rel="icon" type="image/png" sizes="64x64" href="/favicon.png">
         <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-        <link rel="stylesheet" type="text/css" href="{{ 'site.css.liquid' | asset_url }}">
-        {{ settings.head_extra_code }}
+        {{ 'site.css' | stylesheet_tag }}
     </head>
     <body id="{{ meta.title | handle }}" class="template-{{ template | replace: '.', ' ' | split: ' ' | first | handle }}">
         {% if template == 'index' %}
@@ -30,7 +29,7 @@
             <main id="main-content" tabindex="-1">
                 {{ contentForLayout }}
             </main>
-        {% include 'siteFooter' %}
+            {% include 'siteFooter' %}
         </div>
         {% endif %}
     </body>
