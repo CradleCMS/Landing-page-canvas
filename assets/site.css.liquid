@@ -372,7 +372,6 @@ hr,
 iframe,
 img,
 input,
-main,
 nav,
 object,
 ol,
@@ -415,7 +414,6 @@ hgroup:last-child,
 hr:last-child,
 input[type="checkbox"],
 input[type="radio"],
-main:last-child,
 nav:last-child,
 ol:last-child,
 p:last-child,
@@ -1022,7 +1020,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
-main {
+body:not(.template-index) main {
     flex-grow: 2; 
     max-width: var(--ok-body);
     padding: var(--ok-s-3);
